@@ -1,4 +1,4 @@
-# Android-Mining
+# Android-Mining TEST
 Quick installation of mining on Android Phones
 
 ## Github cloning and customizing
